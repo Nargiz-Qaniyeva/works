@@ -1,0 +1,14 @@
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.csproj.AssemblyReference.cache
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.AssemblyInfoInputs.cache
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.AssemblyInfo.cs
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.csproj.CoreCompileInputs.cache
+C:\Users\tu7lyw21z\Desktop\practice\work\work\bin\Debug\netcoreapp3.1\work.exe
+C:\Users\tu7lyw21z\Desktop\practice\work\work\bin\Debug\netcoreapp3.1\work.deps.json
+C:\Users\tu7lyw21z\Desktop\practice\work\work\bin\Debug\netcoreapp3.1\work.runtimeconfig.json
+C:\Users\tu7lyw21z\Desktop\practice\work\work\bin\Debug\netcoreapp3.1\work.runtimeconfig.dev.json
+C:\Users\tu7lyw21z\Desktop\practice\work\work\bin\Debug\netcoreapp3.1\work.dll
+C:\Users\tu7lyw21z\Desktop\practice\work\work\bin\Debug\netcoreapp3.1\work.pdb
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.dll
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.pdb
+C:\Users\tu7lyw21z\Desktop\practice\work\work\obj\Debug\netcoreapp3.1\work.genruntimeconfig.cache
